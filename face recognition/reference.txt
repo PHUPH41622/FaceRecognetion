@@ -1,0 +1,9 @@
+facenet_face_recognition :
+https://github.com/Skuldur/facenet-face-recognition
+
+Youtube:
+Live Face Recognition in Python : https://www.youtube.com/watch?v=pQvkoaevVMk
+
+Python Face Recognition (Beginner Tutorial) : https://www.youtube.com/watch?v=Y0dLgtF4IHM
+
+8 part Nicholas : https://www.youtube.com/watch?v=bK_k7eebGgc&list=PLgNJO2hghbmhHuhURAGbe6KWpiYZt0AMH
